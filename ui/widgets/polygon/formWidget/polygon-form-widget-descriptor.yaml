@@ -1,0 +1,6 @@
+code: polygon-form-widget
+titles:
+  en: Polygon Form Widget
+  it: Polygon Form Widget
+group: free
+customUiPath: polygon-form-widget.ftl

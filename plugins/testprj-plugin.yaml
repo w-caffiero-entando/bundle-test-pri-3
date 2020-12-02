@@ -1,0 +1,7 @@
+image: entando/test-prj:0.0.1-SNAPSHOT
+dbms: postgresql
+healthCheckPath: "/management/health"
+roles:
+  - "testPrj-admin"
+  - "polygon-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here

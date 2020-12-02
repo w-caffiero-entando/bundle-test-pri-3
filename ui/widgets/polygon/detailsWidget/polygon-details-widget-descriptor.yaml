@@ -1,0 +1,6 @@
+code: polygon-details-widget
+titles:
+  en: Polygon Details Widget
+  it: Polygon Details Widget
+group: free
+customUiPath: polygon-details-widget.ftl

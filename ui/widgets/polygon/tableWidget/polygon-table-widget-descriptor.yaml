@@ -1,0 +1,6 @@
+code: polygon-table-widget
+titles:
+  en: Polygon Table Widget
+  it: Polygon Table Widget
+group: free
+customUiPath: polygon-table-widget.ftl
